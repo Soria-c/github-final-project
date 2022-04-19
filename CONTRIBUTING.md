@@ -5,7 +5,7 @@ Please note we have a Code of Conduct, please follow it in all your interactions
 
 # Programming languages
 
-Scripts are written for "bash" shell. Python code is written at the Python 3.6 level.
+Scripts are written for "bash" shell.
 
 # Pull request process
 
